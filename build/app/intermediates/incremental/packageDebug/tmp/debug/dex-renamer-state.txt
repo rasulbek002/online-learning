@@ -1,0 +1,4 @@
+#Mon Dec 16 22:42:26 KGT 2024
+base.0=/home/rasul/Documents/flutter-learning/first-project/online-learning/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
