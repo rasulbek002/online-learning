@@ -1,0 +1,2 @@
+/Users/rasulkarimov/Documents/projects/online-learning/android/app/.cxx/Debug/5p2l6686/x86/CMakeFiles/rebuild_cache.dir
+/Users/rasulkarimov/Documents/projects/online-learning/android/app/.cxx/Debug/5p2l6686/x86/CMakeFiles/edit_cache.dir

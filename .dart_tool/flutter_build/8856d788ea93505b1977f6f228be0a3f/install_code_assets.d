@@ -1,0 +1,1 @@
+ /Users/rasulkarimov/Documents/projects/online-learning/.dart_tool/flutter_build/8856d788ea93505b1977f6f228be0a3f/native_assets.json: 

@@ -15,6 +15,6 @@ pluginManagement {
     }
 }
 
-include ":app"
+rootProject.name = "online-learning" // Set your project name
 
-apply from: "${settings.ext.flutterSdkPath}/packages/flutter_tools/gradle/app_plugin_loader.gradle"
+include(":app")

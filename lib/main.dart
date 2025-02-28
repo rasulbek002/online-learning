@@ -59,15 +59,6 @@ class MyApp extends StatelessWidget {
                         textColor: const Color(0xFFFFFFFF),
                       ),
                     ),
-                    Padding(
-                      padding: const EdgeInsets.only(top: 10),
-                      child: MainButton(
-                        onPressed: () {},
-                        buttonText: 'Менде аккаунт бар',
-                        bgColor: 0xFFFAFAFA,
-                        textColor: const Color(0xFF6949FF),
-                      ),
-                    )
                   ],
                 ),
               );

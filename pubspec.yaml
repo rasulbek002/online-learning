@@ -37,7 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   go_router: ^13.2.0
   flutter_form_builder: ^9.2.0
-  form_builder_validators: ^9.1.0
+  form_builder_validators: ^11.1.1
 
 dev_dependencies:
   flutter_test:
@@ -65,6 +65,22 @@ flutter:
     - assets/images/hi.png
     - assets/images/which-language.png
     - assets/images/english.png
+    - assets/images/level1.png
+    - assets/images/level2.png
+    - assets/images/level3.png
+    - assets/images/level4.png
+    - assets/images/0.png
+    - assets/images/1.png
+    - assets/images/2.png
+    - assets/images/3.png
+    - assets/images/4.png
+    - assets/images/happy-logo.png
+    - assets/images/blocked.png
+    - assets/images/ready.png
+    - assets/images/t1.png
+    - assets/images/t2.png
+    - assets/images/t3.png
+    - assets/images/finish.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
