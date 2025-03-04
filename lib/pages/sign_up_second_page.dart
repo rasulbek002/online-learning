@@ -75,7 +75,7 @@ class _SelectLanguageState extends State<SelectLanguage> {
                     },
                     text: 'Mandarin',
                     showIcon: true,
-                    image: 'assets/images/english.png',
+                    image: 'assets/images/mandarin.png',
                     backgroundColor: selectedItemIndex == 1 ? Colors.blue : (Colors.grey[200] ?? Colors.grey), // Change color if selected
                   ),
                   const SizedBox(height: 20.0),
@@ -87,7 +87,7 @@ class _SelectLanguageState extends State<SelectLanguage> {
                     },
                     text: 'Spanish',
                     showIcon: true,
-                    image: 'assets/images/english.png',
+                    image: 'assets/images/spanish.png',
                     backgroundColor: selectedItemIndex == 2 ? Colors.blue : (Colors.grey[200] ?? Colors.grey), // Change color if selected
                   ),
                   const SizedBox(height: 20.0),
@@ -99,7 +99,7 @@ class _SelectLanguageState extends State<SelectLanguage> {
                     },
                     text: 'French',
                     showIcon: true,
-                    image: 'assets/images/english.png',
+                    image: 'assets/images/french.png',
                     backgroundColor: selectedItemIndex == 3 ? Colors.blue : (Colors.grey[200] ?? Colors.grey), // Change color if selected
                   ),
                   Padding(
