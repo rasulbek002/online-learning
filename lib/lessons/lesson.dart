@@ -19,8 +19,7 @@ class LessonsApp extends StatelessWidget {
 
 class LessonsPage extends StatelessWidget {
   final List<Lesson> lessons = [
-    Lesson(title: "Сабак 26", subtitle: "Этиштерди үйрөнүү", isUnlocked: true, isCompleted: true),
-    Lesson(title: "Сабак 27", subtitle: "Жаны сөздөр", isUnlocked: false, isCompleted: false),
+    Lesson(title: "Саб", subtitle: "Суйлом тузуу", isUnlocked: true, isCompleted: true),
   ];
 
   @override
@@ -30,7 +29,7 @@ class LessonsPage extends StatelessWidget {
       body: SingleChildScrollView(
         child: Column(
           children: [
-            LessonCard(lesson: Lesson(title: "Сабак 26", subtitle: "Этиштерди үйрөнүү", isUnlocked: true, isCompleted: true)),
+            LessonCard(lesson: Lesson(title: "1 сабак", subtitle: "Башталгыч баскыч", isUnlocked: true, isCompleted: true)),
             Padding(
               padding: const EdgeInsets.all(20),
               child:  Column(
